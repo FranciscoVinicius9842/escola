@@ -1,4 +1,4 @@
-# escola
+# Trabalho - Busca Binaria
 Programa em Python que faz uma busca binária em uma lista de números ímpares entre 1 e 51.
 
 O usuário deve digitar um número ímpar no intervalo de 1 a 51. O programa então procura esse número dentro de uma lista ordenada. A cada passo, ele testa o número que está no meio da lista:
